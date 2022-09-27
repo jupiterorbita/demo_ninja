@@ -1,9 +1,8 @@
 public class TesterNinja{
     public static void main(String[] args) {
 
-        
         // instantiate class
-
+        // hello form here!!!!
         Weapon skateboard = new Weapon("skateboard", 20);
 
         Ninja ninja1 = new Ninja("Michael Angelo", skateboard);
